@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "250367843391",
+    "project_id": "register-n-login-firebaseauth",
+    "storage_bucket": "register-n-login-firebaseauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250367843391:android:6748e4f29b94cd6e096c8a",
+        "android_client_info": {
+          "package_name": "com.robotech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250367843391-4g55esshnv9dvnv559h0uaouj0hdn1jl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.robotech",
+            "certificate_hash": "77b394a6ca82a2c12a38aaed05f458ac6a9dbd5c"
+          }
+        },
+        {
+          "client_id": "250367843391-als1gr6p33f318j6d6kqn5292bptqg0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB87Bx0FDIsuqNEowVwcqhnI942vuW3Ouc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250367843391-als1gr6p33f318j6d6kqn5292bptqg0m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
